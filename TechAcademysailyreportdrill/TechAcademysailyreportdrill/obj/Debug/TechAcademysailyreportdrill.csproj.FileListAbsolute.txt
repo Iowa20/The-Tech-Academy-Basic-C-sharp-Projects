@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\bin\Debug\TechAcademysailyreportdrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\bin\Debug\TechAcademysailyreportdrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\bin\Debug\TechAcademysailyreportdrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\obj\Debug\TechAcademysailyreportdrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\obj\Debug\TechAcademysailyreportdrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\obj\Debug\TechAcademysailyreportdrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\TechAcademysailyreportdrill\TechAcademysailyreportdrill\obj\Debug\TechAcademysailyreportdrill.pdb
