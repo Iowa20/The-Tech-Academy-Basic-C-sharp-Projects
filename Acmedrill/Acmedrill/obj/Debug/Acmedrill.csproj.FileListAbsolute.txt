@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\bin\Debug\Acmedrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\bin\Debug\Acmedrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\bin\Debug\Acmedrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\obj\Debug\Acmedrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\obj\Debug\Acmedrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\obj\Debug\Acmedrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\Acmedrill\Acmedrill\obj\Debug\Acmedrill.pdb

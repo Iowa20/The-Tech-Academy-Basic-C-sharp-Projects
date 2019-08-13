@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AcmeDrill.cs")]
+[assembly: AssemblyTitle("Acmedrill")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AcmeDrill.cs")]
+[assembly: AssemblyProduct("Acmedrill")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9a001e23-4542-4907-b334-eafdcc21e21e")]
+[assembly: Guid("2c4f8a62-4a4e-4300-a90b-aa828a36b1a7")]
 
 // Version information for an assembly consists of the following four values:
 //
