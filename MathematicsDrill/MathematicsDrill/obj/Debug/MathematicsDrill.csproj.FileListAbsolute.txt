@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\bin\Debug\MathematicsDrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\bin\Debug\MathematicsDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\bin\Debug\MathematicsDrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\obj\Debug\MathematicsDrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\obj\Debug\MathematicsDrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\obj\Debug\MathematicsDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathematicsDrill\MathematicsDrill\obj\Debug\MathematicsDrill.pdb

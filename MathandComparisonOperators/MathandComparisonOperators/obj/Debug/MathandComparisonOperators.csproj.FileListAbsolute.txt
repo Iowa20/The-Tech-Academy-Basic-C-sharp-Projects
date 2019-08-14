@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.pdb
