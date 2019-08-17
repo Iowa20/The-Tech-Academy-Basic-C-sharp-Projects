@@ -8,6 +8,8 @@ namespace BooleanLogicDrill
 {
     class Program
     {
+        
+
         static void Main(string[] args)
 
         {
@@ -17,24 +19,26 @@ namespace BooleanLogicDrill
             
             x = int.Parse(Console.ReadLine());
             bool trueOrFalse = x >= 15;
-            
-            
 
 
-            
 
-            string dui = null;
+            string Dui = null;
             Console.WriteLine("Have you ever had a DUI?");
-            dui = Console.ReadLine();
-            if (dui == "no")
+            Dui = Console.ReadLine();
+
+            if (Dui == "no")
+                
             {
-                Console.WriteLine("You'll have an Insurance discount.");
+                Console.WriteLine("False");
             }
-            else
+            else if (Dui == "yes")
             {
-                Console.Write("Insurance rate may go up.");
+                Console.WriteLine("");
             }
-            Console.ReadLine();
+
+
+
+
 
             Console.WriteLine("How many speeding tickets do you have?");
             int y;
@@ -48,15 +52,30 @@ namespace BooleanLogicDrill
 
 
             if (x >= 15)
-                if (dui == "no")
+               if (Dui == "no")
                     if (y <= 3)
+                        
                     {
-                        Console.WriteLine("Qualified");
+                        Console.WriteLine("Qualified!!!");
                     }
-                    else
-                    {
-                        Console.WriteLine("Unqualified");
-                    }
+                  
+            
+
+            else if (y >= 3)
+                {
+                    Console.WriteLine("Unqualified!!!");
+                }
+
+            
+            
+                else if (Dui == "yes")
+                {
+                    Console.WriteLine("Unqualified!!!");
+                }
+            if (x < 15)
+            {
+                Console.WriteLine("Unqualified!!!");
+            }
 
 
 
