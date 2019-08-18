@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\bin\Debug\BranchingDrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\bin\Debug\BranchingDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\bin\Debug\BranchingDrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.pdb
