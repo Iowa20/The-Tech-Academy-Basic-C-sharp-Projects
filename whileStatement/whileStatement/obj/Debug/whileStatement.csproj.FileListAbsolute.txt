@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\bin\Debug\whileStatement.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\bin\Debug\whileStatement.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\bin\Debug\whileStatement.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.pdb
