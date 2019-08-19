@@ -52,7 +52,7 @@ namespace BranchingDrill
             
             {
                
-                Console.WriteLine("Your estimated total for shipping this pagkage is: " + shippingTotal);
+                Console.WriteLine("{0:C} " + shippingTotal);
             }
 
             Console.WriteLine("Thank you.");

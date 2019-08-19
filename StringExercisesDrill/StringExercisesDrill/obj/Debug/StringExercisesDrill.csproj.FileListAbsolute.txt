@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\bin\Debug\StringExercisesDrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\bin\Debug\StringExercisesDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\bin\Debug\StringExercisesDrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\obj\Debug\StringExercisesDrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\obj\Debug\StringExercisesDrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\obj\Debug\StringExercisesDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\StringExercisesDrill\StringExercisesDrill\obj\Debug\StringExercisesDrill.pdb
