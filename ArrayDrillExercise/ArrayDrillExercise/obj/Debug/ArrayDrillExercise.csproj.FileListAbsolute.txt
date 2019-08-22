@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\bin\Debug\ArrayDrillExercise.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\bin\Debug\ArrayDrillExercise.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\bin\Debug\ArrayDrillExercise.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\obj\Debug\ArrayDrillExercise.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\obj\Debug\ArrayDrillExercise.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\obj\Debug\ArrayDrillExercise.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ArrayDrillExercise\ArrayDrillExercise\obj\Debug\ArrayDrillExercise.pdb

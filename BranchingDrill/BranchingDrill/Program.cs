@@ -20,6 +20,8 @@ namespace BranchingDrill
                
             {
                 Console.Write("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
+                return;
             }
             
 
@@ -38,6 +40,8 @@ namespace BranchingDrill
             {
                 
                 Console.WriteLine("Package too big to be shipped via Pagkage Express");
+                Console.ReadLine();
+                return;
             }
             else
             {
@@ -46,13 +50,15 @@ namespace BranchingDrill
 
             Console.ReadLine();
 
-            int shippingTotal = total * packageWeight % 100;
+            int shippingTotal1 = total * packageWeight;
+
+            int shippingTotal2 = shippingTotal1 % 100;
             
             
             
             {
                
-                Console.WriteLine("{0:C} " + shippingTotal);
+                Console.WriteLine("$" + shippingTotal2);
             }
 
             Console.WriteLine("Thank you.");
