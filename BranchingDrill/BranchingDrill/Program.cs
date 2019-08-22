@@ -58,7 +58,7 @@ namespace BranchingDrill
             
             {
                
-                Console.WriteLine("$" + shippingTotal2);
+                Console.WriteLine("Your estimated total for shipping this package is: $" + shippingTotal2);
             }
 
             Console.WriteLine("Thank you.");
