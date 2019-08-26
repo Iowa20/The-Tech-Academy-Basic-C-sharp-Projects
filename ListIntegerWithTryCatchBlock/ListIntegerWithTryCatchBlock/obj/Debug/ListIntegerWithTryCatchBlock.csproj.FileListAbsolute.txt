@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\bin\Debug\ListIntegerWithTryCatchBlock.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\bin\Debug\ListIntegerWithTryCatchBlock.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\bin\Debug\ListIntegerWithTryCatchBlock.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\obj\Debug\ListIntegerWithTryCatchBlock.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\obj\Debug\ListIntegerWithTryCatchBlock.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\obj\Debug\ListIntegerWithTryCatchBlock.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ListIntegerWithTryCatchBlock\ListIntegerWithTryCatchBlock\obj\Debug\ListIntegerWithTryCatchBlock.pdb
