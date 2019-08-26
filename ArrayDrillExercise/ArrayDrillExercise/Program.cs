@@ -34,15 +34,19 @@ namespace ArrayDrillExercise
                 int input = int.Parse(Console.ReadLine());
                 Console.WriteLine("value is: " + NumArray[input]);
 
-                for (int inputB = 0; inputB > NumArray.Length; inputB++)
-                {
-                    Console.WriteLine("It is outside the index of the Array!!!");
-                }
+                Console.ReadLine();
+
             }
+
+
+          
+
             catch (System.IndexOutOfRangeException )
             {
                 Console.WriteLine("Index paramaeter is out of Range");
             }
+
+            
 
 
             Console.ReadLine();
