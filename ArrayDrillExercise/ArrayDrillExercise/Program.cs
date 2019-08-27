@@ -36,6 +36,17 @@ namespace ArrayDrillExercise
 
                 Console.ReadLine();
 
+
+                Console.WriteLine("Select an Index from 0 t0 2. \nThen the the console will display the equivalent value");
+                List<string> list1 = new List<string>() { "Tom", "Mark", "Travis" };
+
+                int list2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("The value is: " + list1[list2]);
+
+                Console.ReadLine();
+
+
+
             }
 
 
