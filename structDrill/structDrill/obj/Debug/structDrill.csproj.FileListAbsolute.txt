@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\obj\Debug\structDrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\obj\Debug\structDrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\bin\Debug\structDrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\bin\Debug\structDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\bin\Debug\structDrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\obj\Debug\structDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\structDrill\structDrill\obj\Debug\structDrill.pdb
