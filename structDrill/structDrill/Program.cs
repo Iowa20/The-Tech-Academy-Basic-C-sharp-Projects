@@ -11,7 +11,7 @@ namespace structDrill
         static void Main(string[] args)
         {
             Number Amount1 = new Number();
-             Amount1.Amount = 619;
+             Amount1.Amount = 610;
 
             Console.WriteLine("Value is: " + Amount1.Amount);
             Console.ReadLine();

@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\bin\Debug\LambdaExpressionDrill.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\bin\Debug\LambdaExpressionDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\bin\Debug\LambdaExpressionDrill.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\obj\Debug\LambdaExpressionDrill.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\obj\Debug\LambdaExpressionDrill.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\obj\Debug\LambdaExpressionDrill.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\LambdaExpressionDrill\obj\Debug\LambdaExpressionDrill.pdb
