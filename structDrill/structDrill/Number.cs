@@ -8,6 +8,6 @@ namespace structDrill
 {
     public struct Number
     {
-        public decimal Amount { get; set; } 
+        //public decimal Amount { get; set; } 
     }
 }

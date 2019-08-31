@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\obj\Debug\ClassAndObjectsDrillPage100.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\obj\Debug\ClassAndObjectsDrillPage100.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\bin\Debug\ClassAndObjectsDrillPage100.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\bin\Debug\ClassAndObjectsDrillPage100.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\bin\Debug\ClassAndObjectsDrillPage100.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\obj\Debug\ClassAndObjectsDrillPage100.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\ClassAndObjectsDrillPage100\ClassAndObjectsDrillPage100\obj\Debug\ClassAndObjectsDrillPage100.pdb
