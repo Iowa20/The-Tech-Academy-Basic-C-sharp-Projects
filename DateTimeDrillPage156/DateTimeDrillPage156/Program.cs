@@ -10,7 +10,6 @@ namespace DateTimeDrillPage156
     {
         static void Main(string[] args)
         {
-            
             DateTime now = DateTime.Now;
 
             Console.WriteLine("Current Date & Time: " + now);
@@ -18,12 +17,16 @@ namespace DateTimeDrillPage156
             int Num1;
             Console.WriteLine("Please enter any number:  ");
             Num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("{0:HH:mm:ss tt}", DateTime.Now);
 
+
+            Console.WriteLine(string.Format("{0:HH:mm:ss tt}", DateTime.Now, + Num1));
+            
+            
            
 
 
-            
+
+
 
             Console.ReadLine();
         }
