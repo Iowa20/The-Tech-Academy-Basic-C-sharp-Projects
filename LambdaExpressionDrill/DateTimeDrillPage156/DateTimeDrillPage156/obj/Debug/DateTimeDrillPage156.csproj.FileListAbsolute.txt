@@ -1,0 +1,7 @@
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\bin\Debug\DateTimeDrillPage156.exe.config
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\bin\Debug\DateTimeDrillPage156.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\bin\Debug\DateTimeDrillPage156.pdb
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\obj\Debug\DateTimeDrillPage156.csprojAssemblyReference.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\obj\Debug\DateTimeDrillPage156.csproj.CoreCompileInputs.cache
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\obj\Debug\DateTimeDrillPage156.exe
+C:\Users\nin_i\OneDrive\Desktop\The-Tech-Academy-Basic-C-sharp-Projects\LambdaExpressionDrill\DateTimeDrillPage156\DateTimeDrillPage156\obj\Debug\DateTimeDrillPage156.pdb
