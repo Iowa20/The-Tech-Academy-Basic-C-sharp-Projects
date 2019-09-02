@@ -14,15 +14,18 @@ namespace DateTimeDrillPage156
 
             Console.WriteLine("Current Date & Time: " + now);
 
+           
+
             int Num1;
             Console.WriteLine("Please enter any number:  ");
             Num1 = Convert.ToInt32(Console.ReadLine());
 
 
-            Console.WriteLine(string.Format("{0:HH:mm:ss tt}", DateTime.Now, + Num1));
-            
-            
-           
+            var changedTime = DateTime.Now.AddHours(0).ToShortTimeString();
+
+            Console.WriteLine(changedTime +" "+ Num1);
+
+
 
 
 
